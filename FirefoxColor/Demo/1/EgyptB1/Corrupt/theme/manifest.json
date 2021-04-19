@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "BlueCalm_EgyptB1",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-008-60d2718f8c915b5ba09f31df5555b459.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(48, 202, 229)",
+      "toolbar_text": "rgb(65, 109, 105)",
+      "frame": "rgb(0, 158, 255)",
+      "tab_background_text": "rgb(0, 255, 233)",
+      "toolbar_field": "rgb(145, 255, 15)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(116, 255, 77)",
+      "popup": "rgb(17, 17, 93)",
+      "popup_text": "rgb(5, 12, 223)",
+      "tab_loading": "rgb(116, 255, 77)"
+    }
+  }
+}
