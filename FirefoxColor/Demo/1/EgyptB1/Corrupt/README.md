@@ -1,6 +1,24 @@
 
 ***
 
+# This theme is not corrupt
+
+I have been meaning to get to this for a while, but the extension was just poorly documented. [My issue raised enough concern over at Mozilla for better documentation to be added for inexperienced extension developers/average computer users](https://github.com/mozilla/FirefoxColor/issues/971)
+
+Firefox may tell you that the theme is corrupt upon loading. Here is how to load it (temporarily, as I have not signed it with [addons.mozilla.org](https://addons.mozilla.org) yet.
+
+1. Go to `about:debugging` this is a URL, copy and paste it into your browser, or write it manually (it isn't that much to write)
+
+2. Go to `[This Firefox]`
+
+3. Click/tap on `[Load temporary add-on]`
+
+4. Locate the theme
+
+The theme should now be applied. It will work on your current browser session. You can change it and add it back at any time.
+
+<!--
+
 # This theme is corrupt
 
 Please access the theme via the link given in the main `README.md` file. This corrupt theme is used as a demo to demonstrate that Firefox color is currently broken.
@@ -34,5 +52,7 @@ DE: GNOME 3.36.1
 ***
 
 ```
+
+!-->
 
 ***
